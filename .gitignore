@@ -1,4 +1,3 @@
 .ruff_cache/
 _hidden/
 *.pyc
-**/*student.py
