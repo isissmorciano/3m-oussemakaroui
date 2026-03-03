@@ -2,3 +2,5 @@
 _hidden/
 *.pyc
 **/*student.py
+**/*reference.py
+src/m10_package/streaming/
