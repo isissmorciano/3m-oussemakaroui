@@ -1,3 +1,5 @@
 .ruff_cache/
 _hidden/
 *.pyc
+**/*reference.py
+src/m10_package/streaming/
